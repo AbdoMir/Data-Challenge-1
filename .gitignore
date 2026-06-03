@@ -1,0 +1,18 @@
+# Environnement virtuel
+challenge1-env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Variables d'environnement
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+*.mp4
