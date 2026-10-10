@@ -1,0 +1,35 @@
+# Environnement virtuel
+challenge1-env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Variables d'environnement
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+*.mp4
+
+# Donnees individuelles d'essais cliniques NIDA.
+# Obtenues sur NIDA Data Share sous conditions d'usage : elles ne sont pas
+# redistribuees ici. Voir la section « Donnees sources » du README.
+ascii-data-files-nida-ctn-*/
+data/raw/
+
+# Documents tiers, non redistribues :
+# l'article de reference, le protocole d'essai et les guides d'annotation
+# SDTM accompagnent les archives sur NIDA Data Share.
+docs/articles/
+docs/Protocol/
+docs/Consigne/Guide_Practice_SDTM_Annotation_NIDA_CTNN0001.docx
+docs/Consigne/DATA STDM.docx
+
+# Presentation de groupe : les noms des autres etudiants y sont visibles.
+Projet/Presentation Data challenge 1 -Groupe5.pptx

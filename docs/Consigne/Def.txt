@@ -1,0 +1,5 @@
+Baseline = premier jour de visite avant le traitement 
+SCREEN FAILLURE = sujets eligible mais n integre pas l etape de randomization
+ITT:intention de traiter > ça veut dire qu’on a fait les analyses stat sur l’intégralité des patients inclus initialement dans l’étude, même s’il y a eu des perdus de vue
+Per protocole> analyse seulement des patients qu’on a gardé jusqu’à la fin dans l’étude
+
